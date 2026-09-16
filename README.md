@@ -1,4 +1,4 @@
-# mars-rover-mission-control
+# Mars Rover Mission Control
 SVV Requirements Verification and Change Impact Analysis for Mars Rover Mission Control
 # Mars Rover Mission Control
 
